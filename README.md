@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  Tweets App
+
+Use it together with Tweets App Server
+https://github.com/rbatsenko/tw-app-server
 
 ## Setup
 
